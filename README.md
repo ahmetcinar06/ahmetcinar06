@@ -6,7 +6,7 @@ I am dedicated to bringing my own projects to life and making an impact in the s
 
 ## Benimle İletişime Geçin
 
-* [![Discord]((https://www.svgrepo.com/show/353655/discord-icon.svg))]((https://discord.com/channels/@me))
+* [![Discord](https://www.svgrepo.com/show/353655/discord-icon.svg)]((https://discord.com/channels/@me))
 
 ## Kullandığım Teknolojiler
 
