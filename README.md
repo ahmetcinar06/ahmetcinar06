@@ -5,8 +5,13 @@ I am fascinated by the endless possibilities that software offers, and Python’
 I am dedicated to bringing my own projects to life and making an impact in the software industry. Every day, I work on expanding my knowledge and refining my skills.
 
 <ul dir="auto">
-<li>📫 How to reach me <strong><a href="mailto:ahmetcinardonmez2013@gmail.com">ahmetcinardonmez2013@gmail.com</a></strong></li>
+<li>📫 How to reach me: <strong><a href="mailto:ahmetcinardonmez2013@gmail.com">ahmetcinardonmez2013@gmail.com</a></strong></li>
 </ul>
+
+<ul dir="auto">
+<li>📫 Also: <strong><a href="mailto:sehercancinar@gmail.com">sehercancinar@gmail.com</a></strong></li>
+</ul>
+
 
 ## Technologies I Use 💻:
 
