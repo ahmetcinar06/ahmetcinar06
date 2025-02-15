@@ -8,3 +8,4 @@ I am dedicated to bringing my own projects to life and making an impact in the s
 
 ![Python](https://img.shields.io/badge/Python-yellow?logo=python&style=flat-square)
 ![HTML](https://img.shields.io/badge/HTML-orange?logo=html&style=flat-square)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css&style=flat-square)
