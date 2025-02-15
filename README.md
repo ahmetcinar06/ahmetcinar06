@@ -1,4 +1,4 @@
-# Merhaba, Ben Adınız!
+# Hi 👋, Ahmet Çınar Dönmez
 
 [İlgi Alanlarınız] konusunda tutkulu bir [Açıklamanız - örn., öğrenci, gelecek vadeden geliştirici]'yim.
 
