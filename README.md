@@ -1,4 +1,4 @@
-# Hi 👋, Ahmet Çınar Dönmez
+# Hi 👋, I'm Ahmet Çınar Dönmez
 
 I am a student with a deep passion for the world of software development, especially the Python programming language. I see coding as an art and constantly strive to improve my skills in problem-solving, algorithms, and web development.
 I am fascinated by the endless possibilities that software offers, and Python’s flexibility allows me to create various projects with enthusiasm. My openness to new technologies and eagerness to learn are among the key qualities that will shape me into a successful developer in the future.
